@@ -1,6 +1,6 @@
 # picam_jetson_nano_imx477_cpp
 This repository contains the test code for runnig Raspberry Pi HQ Camera (IMX477) on Jetson Nano. You may follow the given instructions to install the drivers or SDK on your Jetson Nano board. 
-
+code reference: https://github.com/JetsonHacksNano/CSI-Camera
 
 ### Raspberry Pi HQ camera IMX477 Linux driver for Jetson
 Follow the steps to install Raspberry Pi HQ Camera (IMX-477) drivers on Jetson Nano running the Ubuntu OS mentioned in the following website: 
